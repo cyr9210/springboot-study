@@ -1,5 +1,5 @@
 # Springboot 공부 내용
-블로그 정리 : [cyr9210.github.io]
+블로그 정리 : [cyr9210.github.io](cyr9210.github.io)
 
 ##  목차별 디렉토리 
 
