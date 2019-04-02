@@ -8,12 +8,10 @@
         <version>2.1.3.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-
     <groupId>bong</groupId>
-    <artifactId>spring-boot-11</artifactId>
+    <artifactId>spring-boot-11-2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-boot-11</name>
-
+    <name>spring-boot-11-2</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
@@ -21,10 +19,6 @@
     </properties>
 
     <dependencies>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-actuator</artifactId>
-        </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
@@ -38,15 +32,8 @@
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-jetty</artifactId>
+            <artifactId>spring-boot-starter-undertow</artifactId>
         </dependency>
-
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-test</artifactId>
-            <scope>test</scope>
-        </dependency>
-
     </dependencies>
 
     <build>
