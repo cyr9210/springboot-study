@@ -14,5 +14,5 @@
 
 #### 12 : [SpringApplication](https://cyr9210.github.io/2019/04/03/Spring/springboot06/)
 
-
+#### 13 : [외부설정](https://cyr9210.github.io/2019/04/05/Spring/springboot07/), [프로파일](https://cyr9210.github.io/2019/04/08/Spring/springboot08/)
 
