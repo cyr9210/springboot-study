@@ -16,3 +16,6 @@
 
 #### 13 : [외부설정](https://cyr9210.github.io/2019/04/05/Spring/springboot07/), [프로파일](https://cyr9210.github.io/2019/04/08/Spring/springboot08/), [로깅](https://cyr9210.github.io/2019/04/10/Spring/springboot09/)
 
+#### 14 : [테스트](https://cyr9210.github.io/2019/04/10/Spring/springboot10/), [SpringBoot_Devtools](https://cyr9210.github.io/2019/04/11/Spring/springboot11/)
+
+
