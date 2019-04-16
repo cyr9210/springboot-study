@@ -20,4 +20,6 @@
 
 #### 15 : [스프링 웹 MVC](https://cyr9210.github.io/2019/04/11/Spring/springboot12/)
 
-#### 16 : [스프링 데이터]()
+#### 16 : [스프링 데이터](https://cyr9210.github.io/2019/04/15/Spring/springboot13/)
+
+
